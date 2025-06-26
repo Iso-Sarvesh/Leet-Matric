@@ -30,10 +30,11 @@ We all solve problems. But how often do we visualize our own journey?
 ---
 
 ## 📸 Demo
+![Screenshot 2025-06-26 101749](https://github.com/user-attachments/assets/55e7bd44-3aac-4616-b80a-155a580b0a58)
 
-> *Add a screen recording or screenshot here*  
-> Example:  
-> ![LeetMetric Preview](./assets/demo.gif)
+![Screenshot 2025-06-26 101813](https://github.com/user-attachments/assets/921a68d5-af4b-46cf-8a0e-e24f8ccd1f3b)
+
+
 
 ---
 
